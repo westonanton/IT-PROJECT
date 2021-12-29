@@ -1,0 +1,195 @@
+
+.umb{
+	 font-size:18px;
+	 font-family:Futura;
+background-color:white;
+}
+/*
+head section Top area*/
+.para{
+	margin-left:200px;
+	color:white;
+}
+.head{
+	color:yellow;
+	font-size:70px;
+    font-family:Futura;
+}
+ .m-head
+ {
+       width: 100%;
+       height: 60%;
+
+    align-content: center;
+ }
+ .m-head li{ display:inline-table;  }
+ .head{font-size:40px}
+ /*head background image*/
+ .h-image{
+background-color: black;
+ 	  height:21%;
+      border-radius:40px;
+      
+ }
+.h-nav{
+	padding-top:15px;
+   width: 60%;
+  
+    margin:10px auto 2px auto;
+    
+}
+.h-nav li{
+    display:inline-table;  
+}
+.h-nav li a{
+     margin-top:50px;
+    padding: 40px;
+    text-decoration: none;
+    color:  white;
+    line-height: 5px; 
+font-size:20px;	
+}
+.h-nav li a:hover{
+    color: #ec3c6a;
+}
+.ph{
+   width: 60%;
+    margin:10px auto 2px auto;
+	padding-top:50px:
+}
+.main{
+  align-content: center;
+    display: none;
+    margin: 2 auto;
+    width: 800px;
+border-radius: 30px;}
+}
+.d-footer{
+    display: block;
+    padding: 1px;
+    position: relative;
+}
+
+.d-us{
+    display: inline-table;
+    width: 30%;
+    margin: 2%;
+}
+
+.d-address{
+    display: inline-table;
+    width: 30%;
+     margin: 2%;
+}
+.d-media{
+	  display: inline-table;
+    width: 20%;
+     margin: 2%;
+
+}
+.bold, .dh{
+    color:#ec3c6a;
+    font-size: 1.5vw;  
+}
+.d-color{
+	color: white;
+}
+.c-room{
+    display: block;
+    background: #353535;
+    width: 15%; 
+    border-radius: 40px
+
+}
+.c-room img{
+    width: 100%;
+    border-radius: 40px
+
+}
+.c-room p{
+    font-size: 1.5vw;
+    color: white;
+    text-align: center; 
+}
+.c-room a{
+    text-decoration: red;
+
+}
+.c-room a p:hover{
+    color: #ec3c6a;
+}
+/*button za chini*/
+.d-button{
+       width: 60%;
+    margin:10px auto 2px auto;
+}
+.disp{
+   display: flex;
+}
+.p-border a{
+       width: 10%;
+       height: 5%;
+       border: 1px solid:#ec3c6a;
+     color: #ec3c6a;
+}
+.p-room {
+    text-decoration: none;
+    text-align: center ;
+	font-style: Futura;
+    font-size: 1.5vw;
+    margin: 1px;
+    color: #ec3c6a;
+    
+   }
+.about {
+	padding-left:200px;"
+	 width: 50px;
+	 height: 50px;
+    margin: 5%;
+    padding-bottom:100px;
+}
+.a-hom  {
+    margin-left: 270px;"  
+}
+.a-hom a{
+      text-decoration: none;
+      color: red;
+}
+/*about page contCT AND ADDRESS*/
+.s-address{
+	   width: 60%;
+    padding-left:265px;
+    padding-bottom: 100px;
+}
+.contact {
+	 color: blue;
+	display: inline-table;
+	   width: 30px;
+    
+}
+.address{
+	color: blue;
+	display: inline-table;
+		   width: 50%;
+   
+}
+
+.vh{
+	color: #ec3c6a;
+margin-left: 10px;}
+
+/*copyright*/
+.copyright-text{
+	text-align: center;
+}
+/*roompage pragrapp and image*/
+.roompage{
+	margin-left:270px;
+
+   display: flex;
+}
+.roomph{
+		margin-left:270px;
+}
+* {box-sizing:border-box}
+
